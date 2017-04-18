@@ -1,0 +1,12 @@
+package com.testedesistema;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class TesteDeSistemaApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(TesteDeSistemaApplication.class, args);
+	}
+}
